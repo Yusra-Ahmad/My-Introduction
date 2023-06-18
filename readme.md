@@ -8,8 +8,8 @@ I Love to do travel. My favourite color is Purple. I speak English and Urdu. I a
 ![painting](https://mymodernmet.com/wp/wp-content/uploads/2020/09/best-artist-paint-brushes-1.jpg)
 
 ## Emojis 
-:smiley 
-:art
+😃
+🎨
 
 ## Table
 
